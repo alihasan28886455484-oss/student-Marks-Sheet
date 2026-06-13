@@ -9,6 +9,8 @@ print('\n\n\n')
 Totalmarks=eng+maths+hindi+cs+science
 Cgpa= Totalmarks/5
 print('\n\n\n')
+print('\t\t\t\t\t\n The University Of Delhi ')
+print('Subject\t\tMarks Obtained\t\tMaximum ')
 print(f' Name {n} \t\tRoll no {no}')
 print(f'\n Math\t {maths}')
 print(f'\n Hindi\t{hindi}')
